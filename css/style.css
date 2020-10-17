@@ -1,0 +1,156 @@
+
+.mainLogo{
+
+}
+h1{
+    position: absolute;
+    display: inline-block;
+    font-size: 40px;
+}
+#logo1{
+    display: inline-block;
+    padding-left: 130px;
+    margin-top: 40px;
+}
+#subtitle{
+    display: inline-block;
+    color: gray;
+    font-size: 13px;
+    padding-top: 40px;
+    
+}
+
+#icon1{
+    position: absolute;
+    display: inline-block;
+    padding-left: 820px;
+    margin-top: -30px;
+}
+.iconNav{
+display: inline-block;
+}
+
+h2{
+    display: inline-block;
+    padding-left: 130px;
+margin-top: 50px;
+margin-bottom: 0px;
+font-size: 35px;
+}
+#date{
+    padding-left: 130px;
+    color: gray;
+    font-size: 12px;
+    padding-bottom: 20px;
+}
+#print{
+    float: right;
+    padding-right: 170px;
+    margin-top: -39px;
+}
+#printIcon{
+    float: right;
+    padding-right: 23px;
+
+}
+#mainImage{
+position: relative;
+width: 900px;
+height: 100%;
+   padding-left: 125px;
+}
+.rectangle {
+    display: block;
+    height: 15px;
+    width: 76%;
+    background-color: rgb(179, 177, 177);
+    margin-left: 123px;
+    margin-top: 30px;
+  }
+  #para{
+      width: 920px;
+      text-align: center;
+      padding-left: 120px;
+      color: rgb(161, 161, 161);
+  }
+  #ingredients{
+    padding-top: 30px;
+    position: relative;
+}
+  #ingLeft{
+float: left;
+padding-left: 200px;
+position: absolute;
+margin-top: -240px;
+font-size: 20px;
+color: gray;
+  }
+  #ingRight{
+float: right;
+position: absolute;
+padding-left: 550px;
+margin-top: -240px;
+font-size: 20px;
+color: gray;
+  }
+  #background{
+      padding-left: 125px;
+  }
+  .rectangle2{
+    display: block;
+    height: 15px;
+    width: 76%;
+    background-color: rgb(179, 177, 177);
+    margin-left: 123px;
+    margin-top: 30px;
+  }
+  #van{
+      padding-left: 130px;
+      margin-top: -70px;
+  }
+  h4{
+      padding-left: 210px;
+      font-size: 20px;
+  }
+  #vanessa{
+      padding-left: 210px;
+      margin-top: -38px;
+      width: 490px;
+      color: rgb(126, 126, 126);
+  }
+
+  #foot1{
+      color: rgb(187, 187, 187);
+      text-align: center;
+      margin-top: 50px;
+  }
+  #foot2{
+    color: rgb(187, 187, 187);
+    text-align: center;
+    margin-top: -10px;
+  }
+  #smallLogo{
+      position: relative;
+  text-align: center;
+  margin-top:20px;
+  padding-top: 30px;
+  }
+  .line{
+      position: absolute;
+      display: block;
+      height: 1px;
+      width: 920px;
+      background-color: rgb(202, 201, 201);
+      margin-left:120px;
+  }
+  #share{
+      position: relative;
+      display: inline-block;
+      background-color: rgb(214, 97, 76);
+  color: aliceblue;
+margin-left: 870px; 
+padding: 10px 20px;
+margin-top: -50px;
+ }
+ 
+  
